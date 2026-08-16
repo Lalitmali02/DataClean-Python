@@ -48,6 +48,9 @@ Duplicate Records : 0
 
 Data Quality Status
 Dataset needs cleaning.
+##  Project Output
+
+![DataClean Output](dataclean-output.png)
 
 ## Python Concepts Used
 
